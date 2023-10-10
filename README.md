@@ -1,3 +1,11 @@
+### About
+
+I got introduced to programming when I entered college, and I fell in love with this world. Since then, I've put in a lot of effort to improve my technical skills. I work as a full-stack developer, but I have an interest in all areas, from DevOps, frontend, and backend, to even compilers, operating systems, and computer graphics.
+
+My satisfaction lies in solving problems and delivering high-quality code.
+
+My hobbies include `playing chess`, `reading web novels` and ofcourse `programming`.
+
 ### Work experience
 
 [<img align="left" height="65px" width="65px" alt="Warpnet" src="./assets/catho.png"/>](https://www.catho.com.br/)
