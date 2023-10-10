@@ -1,3 +1,10 @@
+## Ramon de Brittos Souza
+
+Email: hi.souzaramon@gmail.com \
+Linkedin: https://www.linkedin.com/in/2bfe26 \
+Github (Personal): https://github.com/2bfe26 \
+Github (Work): https://github.com/souzaramon
+
 ### About
 
 I got introduced to programming when I entered college, and I fell in love with this world. Since then, I've put in a lot of effort to improve my technical skills. I work as a full-stack developer, but I have an interest in all areas, from DevOps, frontend, and backend, to even compilers, operating systems, and computer graphics.
