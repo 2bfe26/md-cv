@@ -34,3 +34,11 @@ When I joined Objective, I was assigned to the DevOps team, and at Objective, I 
 I had my first experience with Kubernetes and managed a cluster using various resources. I delved into Docker and Shell scripting, where I collaborated with various teams to create automations. I wrote several pipelines in different technologies, including Jenkins, GitHub Actions, and Bitbucket Pipelines.
 
 I worked on international projects and gave presentations in English on testing to various teams.
+
+[<img align="left" height="65px" width="65px" src="./assets/ema.png"/>](https://ema.net.br/)
+
+**Full-stack Developer** \
+[**Ema**](https://ema.net.br/) • Full-time • 05/2021 - 04/2022 (1 year) \
+Skills: `AWS`, `Typescript`, `Node.JS`, `React.JS`, `DynamoDB`
+
+In this phase of my career, I returned to Ema with the mission of developing a product prototype to securely and efficiently centralize data from different companies within an API. This API provides the possibility of creating notifications and dynamic charts. Additionally, I developed an app for consumption and another for resource registration for this API. This experience was very important for me as it allowed me to learn even more about AWS, handling sensitive data, and maintaining an API with high availability and performance.
