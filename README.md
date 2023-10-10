@@ -42,3 +42,38 @@ I worked on international projects and gave presentations in English on testing 
 Skills: `AWS`, `Typescript`, `Node.JS`, `React.JS`, `DynamoDB`
 
 In this phase of my career, I returned to Ema with the mission of developing a product prototype to securely and efficiently centralize data from different companies within an API. This API provides the possibility of creating notifications and dynamic charts. Additionally, I developed an app for consumption and another for resource registration for this API. This experience was very important for me as it allowed me to learn even more about AWS, handling sensitive data, and maintaining an API with high availability and performance.
+
+[<img align="left" height="65px" width="65px" src="./assets/astrocoders.png"/>](https://astrocoders.com/)
+
+**Full-stack Developer** \
+[**Astrocoders**](https://astrocoders.com/) • Full-time • 12/2019 - 05/2020 (6 months) \
+Skills: `AWS`, `Elixir`, `GraphQL`, `ReasonML`, `Postgresql`
+
+At Astrocoders, I had the opportunity to delve into Elixir development, which was a new language for me. In this context, my role involved creating an API to aggregate payment methods and centralize transaction control. Despite my short stay due to the pandemic, this experience provided me with valuable insights into backend development, high-availability API strategies, and working with Scrum methodologies. It also allowed me to enhance my proficiency in using English on a daily basis.At Astrocoders, I had the opportunity to delve into Elixir development, which was a new language for me. In this context, my role involved creating an API to aggregate payment methods and centralize transaction control. Despite my short stay due to the pandemic, this experience provided me with valuable insights into backend development, high-availability API strategies, and working with Scrum methodologies. It also allowed me to enhance my proficiency in using English on a daily basis.
+
+[<img align="left" height="65px" width="65px" src="./assets/ema.png"/>](https://ema.net.br/)
+
+**Full-stack Developer** \
+[**Ema**](https://ema.net.br/) • Full-time • 07/2019 - 12/2019 (6 months) \
+Skills: `Typescript`, `Node.JS`, `React.JS`, `React Native`
+
+Upon joining Ema, I actively contributed to the continuous development of the portal (Dox). During this period, I focused on enhancing this web application (React). Over the course of several months, I conducted a codebase restructuring, transforming it into a monorepo, where each system module became an independent package. Additionally, I successfully isolated the legacy portion and implemented a pipeline with unit testing and linting to ensure the overall application's quality.
+Lastly, I introduced numerous bug fixes and performance enhancements to the application.
+
+[<img align="left" height="65px" width="65px" src="./assets/jmv.png"/>](http://www.jmvsistemas.com.br/)
+
+**Full-stack Developer** \
+[**JMV**](http://www.jmvsistemas.com.br/) • Full-time • 02/2018 - 07/2019 (1 year and 6 months) \
+Skills: `Javascript`, `Node.JS`, `React.JS`, `React Native`, `Vue.JS`, `Mysql`, `Linux`
+
+During my time at JMV Systems, I had the opportunity to create a wide range of applications, including APIs, Web Apps (PWAs), and jobs for ERP integration. These applications aimed to expand their functionalities and provide CRM and inventory control features at employees' fingertips.
+Furthermore, this experience marked my first exposure to AWS and my specialization in JavaScript.
+
+[<img align="left" height="65px" width="65px" src="./assets/rexlab.png"/>](https://rexlab.ufsc.br/)
+
+**Full-stack Developer** \
+[**RExLab**](https://rexlab.ufsc.br/) • Full-time • 12/2016 - 01/2018 (1 year and 2 months) \
+Skills: `PHP`, `Node.JS`, `Mysql`, `Laravel`, `JQuery`, `Linux`
+
+During my time as a researcher and developer at Rexlab, I had the opportunity to take my first steps in the web development realm. I collaborated with a team in building and maintaining a fullstack Laravel application aimed at promoting inclusive education through physics experiments (Relle).
+During this period, I was tasked with integrating a Node.js application for experiment access control. This integration involved implementing an in-memory queue system with the ability to prioritize users who had scheduled experiments.
