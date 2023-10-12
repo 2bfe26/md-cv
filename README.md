@@ -1,17 +1,34 @@
 ## Ramon de Brittos Souza
 
-Email: hi.souzaramon@gmail.com \
-Linkedin: https://www.linkedin.com/in/2bfe26 \
-Github (Personal): https://github.com/2bfe26 \
-Github (Work): https://github.com/souzaramon
+**Email**
+
+- hi.souzaramon@gmail.com
+
+**Linkedin**
+
+- https://www.linkedin.com/in/2bfe26
+
+**Github**
+
+- https://github.com/2bfe26
+- https://github.com/souzaramon
+
+&nbsp;
 
 ### About
 
 I got introduced to programming when I entered college, and I fell in love with this world. Since then, I've put in a lot of effort to improve my technical skills. I work as a full-stack developer, but I have an interest in all areas, from **DevOps**, **frontend**, and **backend**, to even **compilers**, **operating systems**, and **computer graphics**.
 
-My satisfaction lies in solving problems and delivering high-quality code.
+My satisfaction lies in solving problems and delivering high-quality code and some of my hobbies are _playing chess_, _reading web novels_ and of course _programming_.
 
-My hobbies include _playing chess_, _reading web novels_ and of course _programming_.
+&nbsp;
+
+### Education
+
+**Bachelor of Information and Communication Technology** \
+Universidade Federal de Santa Catarina • ongoing
+
+&nbsp;
 
 ### Work experience
 
@@ -22,6 +39,8 @@ My hobbies include _playing chess_, _reading web novels_ and of course _programm
 Skills: `AWS`, `Typescript`, `Node.JS`, `React.JS`, `Automated tests`
 
 My first experience as a Senior in a team has been incredibly valuable. I've been learning a lot about team management, effective Scrum practices, task prioritization, and the importance of crafting clear documentation. Furthermore, it stands out as the experience that has added the most to my knowledge thus far, particularly in understanding and utilizing microservices. It has also ignited a growing desire within me to delve deeper into system design and architecture, further enhancing my expertise in this field.
+
+&nbsp;
 
 [<img align="left" height="65px" width="65px" src="./assets/obj.png"/>](https://www.objective.com.br/)
 
@@ -35,6 +54,8 @@ I had my first experience with Kubernetes and managed a cluster using various re
 
 I worked on international projects and gave presentations in English on testing to various teams.
 
+&nbsp;
+
 [<img align="left" height="65px" width="65px" src="./assets/ema.png"/>](https://ema.net.br/)
 
 **Full-stack Developer** \
@@ -43,6 +64,8 @@ Skills: `AWS`, `Typescript`, `Node.JS`, `React.JS`, `DynamoDB`
 
 In this phase of my career, I returned to Ema with the mission of developing a product prototype to securely and efficiently centralize data from different companies within an API. This API provides the possibility of creating notifications and dynamic charts. Additionally, I developed an app for consumption and another for resource registration for this API. This experience was very important for me as it allowed me to learn even more about AWS, handling sensitive data, and maintaining an API with high availability and performance.
 
+&nbsp;
+
 [<img align="left" height="65px" width="65px" src="./assets/astrocoders.png"/>](https://astrocoders.com/)
 
 **Full-stack Developer** \
@@ -50,6 +73,8 @@ In this phase of my career, I returned to Ema with the mission of developing a p
 Skills: `AWS`, `Elixir`, `GraphQL`, `ReasonML`, `Postgresql`
 
 At Astrocoders, I had the opportunity to delve into Elixir development, which was a new language for me. In this context, my role involved creating an API to aggregate payment methods and centralize transaction control. Despite my short stay due to the pandemic, this experience provided me with valuable insights into backend development, high-availability API strategies, and working with Scrum methodologies. It also allowed me to enhance my proficiency in using English on a daily basis.At Astrocoders, I had the opportunity to delve into Elixir development, which was a new language for me. In this context, my role involved creating an API to aggregate payment methods and centralize transaction control. Despite my short stay due to the pandemic, this experience provided me with valuable insights into backend development, high-availability API strategies, and working with Scrum methodologies. It also allowed me to enhance my proficiency in using English on a daily basis.
+
+&nbsp;
 
 [<img align="left" height="65px" width="65px" src="./assets/ema.png"/>](https://ema.net.br/)
 
@@ -60,6 +85,8 @@ Skills: `Typescript`, `Node.JS`, `React.JS`, `React Native`
 Upon joining Ema, I actively contributed to the continuous development of the portal (Dox). During this period, I focused on enhancing this web application (React). Over the course of several months, I conducted a codebase restructuring, transforming it into a monorepo, where each system module became an independent package. Additionally, I successfully isolated the legacy portion and implemented a pipeline with unit testing and linting to ensure the overall application's quality.
 Lastly, I introduced numerous bug fixes and performance enhancements to the application.
 
+&nbsp;
+
 [<img align="left" height="65px" width="65px" src="./assets/jmv.png"/>](http://www.jmvsistemas.com.br/)
 
 **Full-stack Developer** \
@@ -68,6 +95,8 @@ Skills: `Javascript`, `Node.JS`, `React.JS`, `React Native`, `Vue.JS`, `Mysql`, 
 
 During my time at JMV Systems, I had the opportunity to create a wide range of applications, including APIs, Web Apps (PWAs), and jobs for ERP integration. These applications aimed to expand their functionalities and provide CRM and inventory control features at employees' fingertips.
 Furthermore, this experience marked my first exposure to AWS and my specialization in JavaScript.
+
+&nbsp;
 
 [<img align="left" height="65px" width="65px" src="./assets/rexlab.png"/>](https://rexlab.ufsc.br/)
 
