@@ -1,0 +1,39 @@
+name: cd
+
+on:
+  push:
+    tags:
+      - "*.*.*"
+
+env:
+  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+jobs:
+  build:
+    name: build
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - run: |
+          mkdir ./md
+          mv README.md ./md/cv-webdev-souzaramon.md
+
+      - uses: baileyjm02/markdown-to-pdf@v1
+        with:
+          input_dir: ./md
+          output_dir: souzaramon
+          images_dir: ./assets
+          image_import: ./assets
+          build_html: false
+
+      - uses: actions/upload-artifact@v1
+        with:
+          name: cv-webdev-ramon-souza
+          path: souzaramon
+
+      - uses: softprops/action-gh-release@v1
+        if: startsWith(github.ref, 'refs/tags/')
+        with:
+          files: |
+            ./souzaramon/cv-webdev-souzaramon.pdf
