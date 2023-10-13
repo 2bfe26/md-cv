@@ -1,27 +1,35 @@
 ## Ramon de Brittos Souza
 
-<span>
+<div align="left">
   <img src="./assets/email.png" width="12" height="12" style="margin-right: 4px">
-  hi.souzaramon@gmail.com
-</span>
+  <span>
+    hi.souzaramon@gmail.com
+  </span>
+</div>
 <br>
 
-<span>
-  <img src="./assets/linkedin.png" width="12" height="12" style="margin-right: 4px">
-  https://www.linkedin.com/in/2bfe26
-</span>
+<div align="left">
+  <img src="./assets/linkdin.png" width="12" height="12" style="margin-right: 4px">
+  <span>
+    https://www.linkedin.com/in/2bfe26
+  </span>
+</div>
 <br>
 
-<span>
+<div align="left">
   <img src="./assets/github.png" width="12" height="12" style="margin-right: 4px">
-  https://github.com/2bfe26
-</span>
+  <span>
+    https://github.com/2bfe26
+  </span>
+</div>
 <br>
 
-<span>
+<div align="left">
   <img src="./assets/github.png" width="12" height="12" style="margin-right: 4px">
-  https://github.com/souzaramon
-</span>
+  <span>
+    https://github.com/souzaramon
+  </span>
+</div>
 
 ### About me
 
