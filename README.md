@@ -1,39 +1,43 @@
 ## Ramon de Brittos Souza
 
-<div align="left">
-  <img src="./assets/email.png" width="12" height="12" style="margin-right: 4px">
-  <span>
-    hi.souzaramon@gmail.com
-  </span>
-</div>
-<br>
+**Email**
 
-<div align="left">
-  <img src="./assets/linkdin.png" width="12" height="12" style="margin-right: 4px">
-  <span>
-    https://www.linkedin.com/in/2bfe26
-  </span>
-</div>
-<br>
+- hi.souzaramon@gmail.com
 
-<div align="left">
-  <img src="./assets/github.png" width="12" height="12" style="margin-right: 4px">
-  <span>
-    https://github.com/2bfe26
-  </span>
-</div>
-<br>
+**Linkedin**
 
-<div align="left">
-  <img src="./assets/github.png" width="12" height="12" style="margin-right: 4px">
-  <span>
-    https://github.com/souzaramon
-  </span>
-</div>
+- [linkedin.com/in/2bfe26](https://www.linkedin.com/in/2bfe26)
+
+**Github**
+
+- [github.com/2bfe26](https://github.com/2bfe26)
+- [github.com/souzaramon](https://github.com/souzaramo)
 
 ### About me
 
 I got introduced to programming when I entered college, and I fell in love with this world. Since then, I've put in a lot of effort to improve my technical skills. I work as a full-stack developer, but I have an interest in all areas, from **DevOps**, **frontend**, and **backend**, to even **compilers**, **operating systems**, and **computer graphics**.
+
+Below is a brief overview of the activities I have been involved in
+
+- **Software Development in professional environments**
+  - Proficient in writing clean and efficient code. Understanding of both object-oriented and functional paradigms.
+  - Strong focus on test-driven development (TDD), including unit testing, integration testing, and end-to-end testing.
+  - Valuable experience in code reviews, maintaining a mindset that prioritizes the delivery of the highest quality code at all times.
+  - Proficient in tools and techniques related to Scrum (Agile) methodologies.
+- **Backend development**
+  - Proficient in Node.js frameworks, including AdonisJS, NestJS, ExpressJS, and Fastify, as well as in other languages such as Laravel (PHP), Phoenix (Elixir), and Django (Python).
+  - Skilled in relational databases like MySQL and PostgreSQL, as well as NoSQL databases such as MongoDB, DynamoDB, and Redis. Proficient in SQL, ORMs like TypeORM and Sequelize, and query builders like Knex.
+  - Experienced in high-traffic application development techniques, such as background jobs, message queuing systems (e.g., SQS, EventBridge), and microservices architecture.
+- **Frontend development**
+  - Profound knowledge of HTML, CSS, and DOM APIs.
+  - Proficient in developing responsive interfaces.
+  - Proficient in JavaScript and frameworks/libraries such as ReactJS, VueJS, SvelteJS, and SolidJS.
+  - Proficient in error handling and recovery techniques, including Error Boundaries, action rollbacks, and offline queues.
+- **DevOps**
+  - Proficient in creation of Dockerfiles and helm charts.
+  - Proficient in creating CI/CD pipelines.
+  - Experience with monitoring tools such as Grafana, Instana and Sentry.
+  - Strong focus on automating repetitive tasks.
 
 ### Education
 
@@ -41,6 +45,8 @@ I got introduced to programming when I entered college, and I fell in love with 
 Universidade Federal de Santa Catarina • ongoing
 
 ### Work experience
+
+I have been working as a developer for over 7 years. Below is a list of the last companies I have been a part of
 
 [<img align="left" height="65px" width="65px" src="./assets/catho.png"/>](https://www.catho.com.br/)
 
@@ -79,84 +85,6 @@ In this past career phase, I reengaged with Ema, tasked with creating a secure a
 Skills: `AWS`, `Elixir`, `GraphQL`, `ReasonML`, `Postgresql`
 
 During my time at Astrocoders, I immersed myself in Elixir development, a new language for me. I was responsible for constructing an API to consolidate payment methods and streamline transaction control. Despite a brief tenure due to the pandemic, this opportunity furnished me with precious insights into backend development, high-availability API techniques, and proficiency in working with Scrum methodologies. Additionally, it facilitated the daily enhancement of my English language skills.
-
-&nbsp;
-
-[<img align="left" height="65px" width="65px" src="./assets/ema.png"/>](https://ema.net.br/)
-
-**Full-stack Developer** \
-[**Ema**](https://ema.net.br/) • Full-time • 07/2019 - 12/2019 • _6 months_ \
-Skills: `Typescript`, `Node.JS`, `React.JS`, `React Native`
-
-Upon joining Ema, I actively contributed to the continuous development of the portal (Dox). During this period, I focused on enhancing this web application (React). Over the course of several months, I conducted a codebase restructuring, transforming it into a monorepo, where each system module became an independent package. Additionally, I successfully isolated the legacy portion and implemented a pipeline with unit testing and linting to ensure the overall application's quality.
-Lastly, I introduced numerous bug fixes and performance enhancements to the application.
-
-&nbsp;
-
-[<img align="left" height="65px" width="65px" src="./assets/jmv.png"/>](http://www.jmvsistemas.com.br/)
-
-**Full-stack Developer** \
-[**JMV**](http://www.jmvsistemas.com.br/) • Full-time • 02/2018 - 07/2019 • _1 year and 6 months_ \
-Skills: `Javascript`, `Node.JS`, `React.JS`, `React Native`, `Vue.JS`, `Mysql`, `Linux`
-
-During my time at JMV Systems, I had the opportunity to create a wide range of applications, including APIs, Web Apps (PWAs), and jobs for ERP integration. These applications aimed to expand their functionalities and provide CRM and inventory control features at employees' fingertips.
-Furthermore, this experience marked my first exposure to AWS and my specialization in JavaScript.
-
-&nbsp;
-
-[<img align="left" height="65px" width="65px" src="./assets/rexlab.png"/>](https://rexlab.ufsc.br/)
-
-**Full-stack Developer** \
-[**RExLab**](https://rexlab.ufsc.br/) • Part-time • 12/2016 - 01/2018 • _1 year and 2 months_ \
-Skills: `PHP`, `Node.JS`, `Mysql`, `Laravel`, `JQuery`, `Linux`
-
-During my time as a researcher and developer at Rexlab, I had the opportunity to take my first steps in the web development world. I collaborated with a team in building and maintaining a fullstack Laravel application aimed at promoting inclusive education through physics experiments (Relle).
-During this period, I was tasked with integrating a Node.js application for experiment access control. This integration involved implementing an in-memory queue system with the ability to prioritize users who had scheduled experiments.
-
-### Skills
-
-#### Experience in Software Development in Professional Environments
-
-- Proficient in writing clean and efficient code, leveraging the full potential of the programming language. Familiar with concepts related to clean architecture. Understanding of both object-oriented and functional paradigms, and the utilization of design patterns when appropriate.
-- Strong focus on test-driven development (TDD), including unit testing, integration testing, and end-to-end testing.
-- Proficient in version control tools, with a keen understanding of the importance of GIT.
-- Valuable experience in code reviews, maintaining a mindset that prioritizes the delivery of the highest quality code at all times.
-- Proficient in tools and techniques related to Scrum (Agile) methodologies. Capable of organizing daily stand-up meetings, task management using Jira, and efficient asynchronous communication. A collaborative approach and a strong sense of teamwork.
-
-#### Experience in Backend Development
-
-- Proficient in Node.js frameworks, including AdonisJS, NestJS, ExpressJS, and Fastify, as well as in other languages such as Laravel (PHP), Phoenix (Elixir), and Django (Python).
-- Skilled in relational databases like MySQL and PostgreSQL, as well as NoSQL databases such as MongoDB, DynamoDB, and Redis. Proficient in SQL, ORMs like TypeORM and Sequelize, and query builders like Knex.
-- Experienced in high-traffic application development techniques, such as background jobs, message queuing systems (e.g., SQS, EventBridge), and microservices architecture.
-- Proficient in monitoring tools like Grafana + Prometheus, Instana, and OpenSearch.
-
-#### Experience in Frontend Development
-
-- Profound knowledge of HTML, CSS, and DOM APIs.
-- Proficient in developing responsive interfaces.
-- Understanding of componentization and logic sharing between pages.
-- Competence in JavaScript frameworks and libraries such as ReactJS, VueJS, SvelteJS, and SolidJS.
-- Skilled in state management using libraries like Redux, xstate, and Zustand.
-- Proficient in handling asynchronous operations, utilizing libraries like react-query and redux-saga.
-- Proficient in error handling and recovery techniques, including Error Boundaries, action rollbacks, and offline queues.
-- Experience with monitoring tools such as Instana and Sentry.
-
-#### Experience in DevOps
-
-- Understanding of the importance of containerization technologies, including the creation of Dockerfiles, Helm charts, and Kubernetes cluster management.
-- Infrastructure management with Terraform.
-- Proficient in creating CI/CD pipelines for various environments.
-- Proficient with monitoring applications
-- Strong focus on automating repetitive tasks.
-- Proficient in and knowledgeable about Linux systems.
-
-#### Extra
-
-- Full-stack development using frameworks like Next.js and Meteor.js.
-- Holistic thinking with a strong sense of responsibility for the product from end to end.
-- Experience working in distributed teams across different countries.
-- A strong desire to learn and evolve as a developer.
-- Pursuing studies in areas beyond web development.
 
 ### Keywords
 
