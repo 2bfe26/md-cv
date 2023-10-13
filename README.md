@@ -1,9 +1,27 @@
 ## Ramon de Brittos Souza
 
-<img src="./assets/email.png" width="12" height="12" style="margin-right: 3px"> hi.souzaramon@gmail.com \
-<img src="./assets/linkedin.png" width="12" height="12" style="margin-right: 3px"> https://www.linkedin.com/in/2bfe26 \
-<img src="./assets/github.png" width="12" height="12" style="margin-right: 3px"> https://github.com/2bfe26 \
-<img src="./assets/github.png" width="12" height="12" style="margin-right: 3px"> https://github.com/souzaramon
+<span>
+  <img src="./assets/email.png" width="12" height="12" style="margin-right: 4px">
+  hi.souzaramon@gmail.com
+</span>
+<br>
+
+<span>
+  <img src="./assets/linkedin.png" width="12" height="12" style="margin-right: 4px">
+  https://www.linkedin.com/in/2bfe26
+</span>
+<br>
+
+<span>
+  <img src="./assets/github.png" width="12" height="12" style="margin-right: 4px">
+  https://github.com/2bfe26
+</span>
+<br>
+
+<span>
+  <img src="./assets/github.png" width="12" height="12" style="margin-right: 4px">
+  https://github.com/souzaramon
+</span>
 
 ### About me
 
@@ -97,14 +115,14 @@ During this period, I was tasked with integrating a Node.js application for expe
 - Valuable experience in code reviews, maintaining a mindset that prioritizes the delivery of the highest quality code at all times.
 - Proficient in tools and techniques related to Scrum (Agile) methodologies. Capable of organizing daily stand-up meetings, task management using Jira, and efficient asynchronous communication. A collaborative approach and a strong sense of teamwork.
 
-#### _(Backend)_ Experience in Restful and GraphQL API Development
+#### Experience in Backend Development
 
 - Proficient in Node.js frameworks, including AdonisJS, NestJS, ExpressJS, and Fastify, as well as in other languages such as Laravel (PHP), Phoenix (Elixir), and Django (Python).
 - Skilled in relational databases like MySQL and PostgreSQL, as well as NoSQL databases such as MongoDB, DynamoDB, and Redis. Proficient in SQL, ORMs like TypeORM and Sequelize, and query builders like Knex.
 - Experienced in high-traffic application development techniques, such as background jobs, message queuing systems (e.g., SQS, EventBridge), and microservices architecture.
 - Proficient in monitoring tools like Grafana + Prometheus, Instana, and OpenSearch.
 
-#### _(Frontend)_ Experience in Web APPs Development
+#### Experience in Frontend Development
 
 - Profound knowledge of HTML, CSS, and DOM APIs.
 - Proficient in developing responsive interfaces.
@@ -115,7 +133,7 @@ During this period, I was tasked with integrating a Node.js application for expe
 - Proficient in error handling and recovery techniques, including Error Boundaries, action rollbacks, and offline queues.
 - Experience with monitoring tools such as Instana and Sentry.
 
-#### _(DevOps)_ Culture Experience
+#### Experience in DevOps
 
 - Understanding of the importance of containerization technologies, including the creation of Dockerfiles, Helm charts, and Kubernetes cluster management.
 - Infrastructure management with Terraform.
@@ -124,7 +142,7 @@ During this period, I was tasked with integrating a Node.js application for expe
 - Strong focus on automating repetitive tasks.
 - Proficient in and knowledgeable about Linux systems.
 
-#### _(Extra)_
+#### Extra
 
 - Full-stack development using frameworks like Next.js and Meteor.js.
 - Holistic thinking with a strong sense of responsibility for the product from end to end.
