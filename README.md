@@ -1,19 +1,9 @@
 ## Ramon de Brittos Souza
 
-**Email**
-
-- hi.souzaramon@gmail.com
-
-**Linkedin**
-
-- https://www.linkedin.com/in/2bfe26
-
-**Github**
-
-- https://github.com/2bfe26
-- https://github.com/souzaramon
-
-&nbsp;
+<img src="./assets/email.png" width="12" height="12" style="margin-right: 3px"> hi.souzaramon@gmail.com \
+<img src="./assets/linkedin.png" width="12" height="12" style="margin-right: 3px"> https://www.linkedin.com/in/2bfe26 \
+<img src="./assets/github.png" width="12" height="12" style="margin-right: 3px"> https://github.com/2bfe26 \
+<img src="./assets/github.png" width="12" height="12" style="margin-right: 3px"> https://github.com/souzaramon
 
 ### About me
 
@@ -146,4 +136,4 @@ During this period, I was tasked with integrating a Node.js application for expe
 
 > **Hey there, human! The next part is intended for the machines; your attention is not required.** However, if you come across this in the midst of five thousand resumes, perhaps it might be the reason.
 
-Javascript, JS, ES5, ES6, ES2020, ES2021, ES2022, Typescript, Flow, Node.JS, Deno, Bun, BunJS, npm, yarn, turborepo, vite, webpack, babel, eslint, prettier, lerna, redux, react, react-router, react-query, axios, zustand, redux-saga, vuejs, mui, vuetify, vuex, pinia, svelte, solidjs, nestjs, nextjs, css, grid, flexbox, styled-components, tailwind, sass, less, pug, vitest, jest, fakerjs, tdd, playwright, cypress, yaml, json, api, restful, fetch, http, https, ssh, ssl, tls, elixir, python, azure, aws, sqs, sns, s3, route53, cloudfront, eventbridge, apigateway, terraform, jenkins, githubactions, bitbucketpipelines, linux, shellscript, bash, ubuntu, k8s, kubernetes, docker, CI, CD, jira, scrum, agile, helm, vscode, vi, vim, slack, insomnia, postman, dom, html, unittests, frontend, fullstack, backend, GraphQL, RESTAPI, Microservices, MySQL, PostgreSQL, MongoDB, Redis, SQL, NoSQL, Git, GitLab, Atlassian, Webpack, Nginx, Heroku, DigitalOcean, AWSLambda, Lambda, DevOps, Jenkins, TravisCI, CircleCI, GitHub, Bitbucket, AgileMethodology, ContinuousIntegration, ContinuousDeployment, DDD, SOLID, WebSockets, Security, Serverless, DevSecOps, Elasticsearch, RESTful, APIDesign, APIIntegration, Authentication, Authorization, JWT, WebSecurity, Docker, Kubernetes, AzureDevOps, Ansible, GoogleCloudFunctions, CloudFormation, InfrastructureasCode, IaaS, PaaS, ServerlessComputing, AWS, AmazonWebServices, Azure, MicrosoftAzure, GCP, GoogleCloudPlatform, ServerAdministration, DatabaseAdministration, AutomatedTesting, End-to-EndTesting, Cross-BrowserTesting, PerformanceTesting, LoadTesting, PenetrationTesting, SecurityTesting, ContinuousMonitoring, AutomatedDeployment, InfrastructureAutomation, Terraform, AzureResourceManager, CI/CD Pipelines, Agile ProjectManagement, Scrum, Kanban, Lean, DevOpsCulture, 24/7Support, IncidentManagement, CustomerSupport, Collaboration, Documentation, TechnicalDocumentation, CodeReviews, CodeQuality, CodeOptimization, ContinuousImprovement, CodingStandards, Debugging, Troubleshooting, ProblemSolving, DecisionMaking, ProjectManagement, Communication, Leadership, Teamwork, CriticalThinking, Creativity, TimeManagement, Adaptability, StressManagement, ContinuousLearning, Self-Motivation, AttentiontoDetail, ClientRelations, VendorRelations, Budgeting, StrategicPlanning, DataAnalysis, UX/UIDesign, ResponsiveWebDesign, WebAccessibility, Cross-BrowserCompatibility, UI/UX, InformationArchitecture, Wireframing, Prototyping, UsabilityTesting, User-CenteredDesign, A/BTesting, Front-EndFrameworks, Back-EndFrameworks, VersionControl, CodeDeployment, ServerMaintenance, APIDevelopment, DataManagement, DatabaseDesign, DataModeling, DataWarehousing, DataMigration, CloudStorage, DataSecurity, DataEncryption, DataBackup, DataRecovery, DataVisualization, DataReporting, CloudServices, DisasterRecovery, CloudMigration, Virtualization, SystemIntegration, Analytics, IoT, BusinessIntelligence
+Javascript, JS, ES5, ES6, ES2020, ES2021, ES2022, Typescript, Flow, Node.JS, Deno, Bun, BunJS, npm, yarn, turborepo, vite, webpack, babel, eslint, prettier, lerna, redux, react, react-router, react-query, axios, zustand, redux-saga, vuejs, mui, vuetify, vuex, pinia, svelte, solidjs, nestjs, nextjs, css, grid, flexbox, styled-components, tailwind, sass, less, pug, vitest, jest, fakerjs, tdd, playwright, cypress, yaml, json, api, restful, fetch, http, https, ssh, ssl, tls, elixir, python, azure, aws, sqs, sns, s3, route53, cloudfront, eventbridge, apigateway, terraform, jenkins, githubactions, bitbucketpipelines, linux, shellscript, bash, ubuntu, k8s, kubernetes, docker, CI, CD, jira, scrum, agile, helm, vscode, vi, vim, slack, insomnia, postman, dom, html, unittests, frontend, fullstack, backend, GraphQL, RESTAPI, Microservices, MySQL, PostgreSQL, MongoDB, Redis, SQL, NoSQL, Git, GitLab, Atlassian, Webpack, Nginx, Heroku, DigitalOcean, AWSLambda, Lambda, DevOps, Jenkins, TravisCI, CircleCI, GitHub, Bitbucket, Docker, Kubernetes, SOLID, WebSockets, PaaS, DevSecOps, JWT
